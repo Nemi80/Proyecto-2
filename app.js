@@ -2,9 +2,9 @@
 // Hola
 
 let cuentas = [
-    {nombre: `Karla`, nip: 1111, saldo: 200},
-    {nombre: `Hugo`, nip: 2222, saldo: 290},
-    {nombre: `Nelly`, nip: 3333, saldo: 67},
+    {nombre: `Karla`, nip: 1111, saldo: 300},
+    {nombre: `Hugo`, nip: 2222, saldo: 250},
+    {nombre: `Nelly`, nip: 3333, saldo: 85},
 ];
 
 let indexCuenta;
